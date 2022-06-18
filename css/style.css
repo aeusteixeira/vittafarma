@@ -757,7 +757,7 @@ header:before {
     padding-right: 15px !important;
   }
   .main-nav nav .navbar-brand img {
-    max-width: 100%;
+    /*max-width: 100%;*/
   }
 
   .header-info .header-meta-search-btn {
