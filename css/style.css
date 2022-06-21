@@ -2215,9 +2215,9 @@ a.back_to_top {
 }
 /*---------- Process Section---------*/
 .process {
-  background: url("../img/process-bg.jpg");
+  background: url("../img/items/background-resume.png");
   background-size: cover;
-  background-position: center center;
+  background-position: top center;
   padding-bottom: 7px;
 }
 .process .process-box {
