@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.host }}
         username: ${{ secrets.user }}
         password: ${{ secrets.password }}
-        server-dir: /home/vittafarma/
+        server-dir: home/vittafarma/
